@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xueheijiang.github.io</id>
+    <title>雪黑喵</title>
+    <updated>2024-05-03T09:36:47.967Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xueheijiang.github.io"/>
+    <link rel="self" href="https://xueheijiang.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xueheijiang.github.io/images/avatar.png</logo>
+    <icon>https://xueheijiang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 雪黑喵</rights>
+    <entry>
+        <title type="html"><![CDATA[测试喵]]></title>
+        <id>https://xueheijiang.github.io/post/ce-shi-miao/</id>
+        <link href="https://xueheijiang.github.io/post/ce-shi-miao/">
+        </link>
+        <updated>2024-05-03T09:36:26.000Z</updated>
+        <content type="html"><![CDATA[<p>测试喵喵喵</p>
+]]></content>
+    </entry>
+</feed>
